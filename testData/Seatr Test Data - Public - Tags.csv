@@ -1,0 +1,13 @@
+Tag name,positive,weakly positive,weakly negative,negative,user created
+geek,"geek, videoGames",nerd,,sports,FALSE
+nerd,"nerd, videoGames",geek,,sports,FALSE
+videoGames,"nerd, geek",,,sports,FALSE
+sports,workOut,,nerd,"videoGames, geek",FALSE
+workOut,,sports,,videoGames,FALSE
+grownChildren,,youngChildren,,,FALSE
+youngChildren,,grownChildren,,,FALSE
+vegan,,nerd,workOut,,FALSE
+socialLeftist,,fiscalLeftist,,socialRightist,FALSE
+socialRightist,,fiscalRightist,,socialLeftist,FALSE
+fiscalLeftist,,socialLeftist,,fiscalRightist,FALSE
+fiscalRightist,,socialRightist,,fiscalLeftist,FALSE
