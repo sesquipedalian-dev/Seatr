@@ -24,7 +24,7 @@ IntelliJ IDEA 2016.3.6+
 
 * run the 'default' run configuration in IntelliJ
 
-### Break down into end to end tests
+### Test Output
 
 By default, the main class will run using the test data in the /testData directory of the repo.  The command line output will be something like this: 
 
