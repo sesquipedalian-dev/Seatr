@@ -187,4 +187,4 @@ Apache License 2.0
 
 ## Acknowledgments
 
-* wikipedia for a refresher on the genetic algorithm - https://en.wikipedia.org/wiki/Genetic_algorithm
+* wikipedia for a refresher on the genetic algorithm (this may also provide some help with tweaking the algorithm parameters) - https://en.wikipedia.org/wiki/Genetic_algorithm
